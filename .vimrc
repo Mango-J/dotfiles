@@ -3,7 +3,7 @@ filetype off                  " required
 
 " How to install Vundle
 " git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-" set the runtime path to include Vundle and initialize
+" set the runtime path to include Vundle and initialize schema change1
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 " alternatively, pass a path where Vundle should install plugins
